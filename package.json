@@ -1,6 +1,10 @@
 {
     "name": "tcpproxy",
     "version": "0.0.1",
+    "repository" :
+    { "type" : "git"
+        , "url" : "https://github.com/schkovich/tcpproxy.git"
+    },
     "main": "main.js",
     "scripts": {"start": "node main.js"},
     "dependencies": {
