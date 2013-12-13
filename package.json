@@ -1,4 +1,14 @@
 {
     "name": "tcpproxy",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "main": "main.js",
+    "scripts": {"start": "node main.js"},
+    "dependencies": {
+        "winston": "0.7.2",
+        "nconf": "0.6.9"
+    },
+    "engines": {
+        "node": ">=0.10.23"
+    }
+
 }

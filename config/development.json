@@ -1,0 +1,9 @@
+{
+    "incomingPort": 5858,
+    "incomingHost": "192.168.1.102",
+    "outgoingPort": 8125,
+    "outgoingHost": "dev.hatch.js",
+    "logFile": "tcpproxy.log",
+    "encoding": "binary",
+    "verbose": true
+}
